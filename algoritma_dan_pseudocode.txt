@@ -1,0 +1,70 @@
+1. Algoritma
+   ----------
+   buat variabel resultan
+   masukkan m = 600
+   masukkan a = 2
+   resultan adalah m * a 
+   tampilkan nilai resultan
+
+   Pseudocode
+   ----------
+   store resultan
+   read m = 600
+   read a = 2
+   Compute resultan = m * a
+   Display resultan
+
+
+
+2. Algoritma
+   ----------
+   buat variabel tahun
+   jika tahun habis dibagi 4 dan tidak habis dibagi 100 tampilkan "Ini adalah tahun kabisat"
+   Jika tahun habis dibagi 4, habis dibagi 100 dan habis dibagi 400, tampilkan "Ini adalah tahun kabisat"
+   Jika tidak tampilkan "Ini bukan tahun kabisat" 
+    
+   Pseudocode
+   -----------
+   store tahun 
+   if tahun mod 4 == 0 and tahun mod 100 !== 0 or tahun mod 4 == 0 and tahun mod 100 == 0 and tahun mod 400 == 0 		Display "Ini adalah tahun kabisat"
+   else
+	Display "Ini bukan tahun kabisat"
+ 
+
+3. Algoritma
+   ----------
+   buat variabel pakaian 
+   masukkan 20 pakaian agar mesin cuci menyala
+   setiap pakaian yang masuk dalam mesin cuci dihitung 1 pakaian  
+
+   Pseudocode
+   -----------
+   store pakaian = 0
+   while pakaian <20
+   	add pakaian by 1 
+   display "mesin cuci menyala"  
+   
+
+4. Algoritma
+   ----------
+   buat variabel siswa = 40 
+   guru memeriksa 40 
+   Jika guru menemukan kuku panjang lakukan hukuman
+   jika tidak berikan pujian
+   
+   Pseudocode
+   -----------
+   store siswa = 1
+   init siswa
+   while siswa <= 40
+   	if siswa = kuku panjang then
+		do hukuman
+   	else
+		do pujian 
+
+        add siswa by 1
+	 
+ 
+
+
+
